@@ -7,8 +7,6 @@ Welcome to **TaskY**, a simple yet powerful web application for managing your ta
 
 - [Features](#features)
 - [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Steps](#steps)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 
