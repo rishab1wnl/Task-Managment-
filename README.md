@@ -66,3 +66,11 @@ Task-Managment-/
 ├── index.js          # JavaScript functionality for managing tasks
 ├── style.css         # Custom styles for the application
 └── README.md         # Project documentation (this file)
+
+- **index.html**: The main HTML file that structures the web application.
+- **index.js**: JavaScript file containing the logic for task management, including adding, editing, deleting, and viewing tasks.
+- **style.css**: Custom CSS for styling the application and ensuring it looks good across devices.
+
+## Live Demo
+Check out the live demo of the TaskY application [here](https://task-managment-hazel.vercel.app/).
+
