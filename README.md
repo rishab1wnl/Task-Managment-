@@ -2,7 +2,6 @@
 
 Welcome to **TaskY**, a simple yet powerful web application for managing your tasks effectively. TaskY allows users to add, view, edit, and delete tasks with ease, making it a perfect tool for organizing personal and professional projects.
 
-![TaskY Logo](https://via.placeholder.com/150)
 
 ## Table of Contents
 
@@ -12,8 +11,6 @@ Welcome to **TaskY**, a simple yet powerful web application for managing your ta
   - [Steps](#steps)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -60,7 +57,7 @@ To set up and run this project locally, follow these steps:
 
 The repository contains the following files and directories:
 
-```plaintext
+```
 Task-Managment-/
 ├── index.html        # Main HTML file
 ├── index.js          # JavaScript functionality for managing tasks
@@ -70,7 +67,7 @@ Task-Managment-/
 - **index.html**: The main HTML file that structures the web application.
 - **index.js**: JavaScript file containing the logic for task management, including adding, editing, deleting, and viewing tasks.
 - **style.css**: Custom CSS for styling the application and ensuring it looks good across devices.
-
+```
 ## Live Demo
 Check out the live demo of the TaskY application [here](https://task-managment-hazel.vercel.app/).
 
