@@ -74,3 +74,4 @@ Task-Managment-/
 ## Live Demo
 Check out the live demo of the TaskY application [here](https://task-managment-hazel.vercel.app/).
 
+> *This project was developed with ❤️ and ☕.*
